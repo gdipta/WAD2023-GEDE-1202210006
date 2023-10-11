@@ -1,0 +1,16 @@
+body {
+    min-height: 2000px;
+}
+
+.jumbotron {
+    padding-top: 2rem;
+    background-color:#b2d3c2;
+}
+
+#projects{
+    background-color:#b2d3c2;
+}
+
+.pagination{
+    color:#b2d3c2;
+}
